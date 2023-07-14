@@ -1,7 +1,7 @@
-- 👋 Hey this is @Jyotiprakash-01
-- 💻 I'am intrested in Web Development, App Development And Programming.
+- 👋 Hey this is @Jyotiprakash-01.
+- 💻 I'am intrested in Web Development, App Development And Programming;
 - 👨‍🎓  Curently pursuing graduation in Computer Science Engineering;
-- 💞️ I’m looking to collaborate on various fields in area of Devlopment
+- 💞️ I’m looking to collaborate on various fields in area of Devlopment;
 - 📫 Feel free to reach me at jyotiprakashtripathy2004@gmail.com
 
 <!---
